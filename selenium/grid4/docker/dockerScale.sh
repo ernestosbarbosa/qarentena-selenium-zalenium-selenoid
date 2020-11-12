@@ -1,0 +1,1 @@
+java -jar ../selenium-server-4.0.0-alpha-6.jar standalone -D selenium/standalone-chrome:latest '{"browserName": "chrome"}' --detect-drivers false

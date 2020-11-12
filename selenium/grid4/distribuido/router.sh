@@ -1,0 +1,1 @@
+    java -jar ../selenium-server-4.0.0-alpha-7.jar router --sessions http://192.168.100.5:5556 --distributor http://192.168.100.5:5553

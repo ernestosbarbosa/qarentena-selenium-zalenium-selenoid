@@ -1,0 +1,1 @@
+java -jar ../selenium-server-4.0.0-alpha-6.jar distributor --sessions http://192.168.100.5:5556 --bind-bus false
